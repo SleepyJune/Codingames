@@ -1,0 +1,6 @@
+C:\Users\Hsiao\Documents\Visual Studio 2013\Projects\Codingames\Ghost In A Cell\GhostInACell\GhostInACell\bin\Debug\GhostInACell.exe.config
+C:\Users\Hsiao\Documents\Visual Studio 2013\Projects\Codingames\Ghost In A Cell\GhostInACell\GhostInACell\obj\Debug\GhostInACell.csprojResolveAssemblyReference.cache
+C:\Users\Hsiao\Documents\Visual Studio 2013\Projects\Codingames\Ghost In A Cell\GhostInACell\GhostInACell\bin\Debug\GhostInACell.exe
+C:\Users\Hsiao\Documents\Visual Studio 2013\Projects\Codingames\Ghost In A Cell\GhostInACell\GhostInACell\bin\Debug\GhostInACell.pdb
+C:\Users\Hsiao\Documents\Visual Studio 2013\Projects\Codingames\Ghost In A Cell\GhostInACell\GhostInACell\obj\Debug\GhostInACell.exe
+C:\Users\Hsiao\Documents\Visual Studio 2013\Projects\Codingames\Ghost In A Cell\GhostInACell\GhostInACell\obj\Debug\GhostInACell.pdb

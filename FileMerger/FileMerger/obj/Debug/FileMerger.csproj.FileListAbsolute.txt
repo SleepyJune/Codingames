@@ -1,0 +1,6 @@
+C:\Users\Hsiao\Documents\Visual Studio 2013\Projects\Codingames\FileMerger\FileMerger\bin\Debug\FileMerger.exe.config
+C:\Users\Hsiao\Documents\Visual Studio 2013\Projects\Codingames\FileMerger\FileMerger\bin\Debug\FileMerger.exe
+C:\Users\Hsiao\Documents\Visual Studio 2013\Projects\Codingames\FileMerger\FileMerger\bin\Debug\FileMerger.pdb
+C:\Users\Hsiao\Documents\Visual Studio 2013\Projects\Codingames\FileMerger\FileMerger\obj\Debug\FileMerger.csprojResolveAssemblyReference.cache
+C:\Users\Hsiao\Documents\Visual Studio 2013\Projects\Codingames\FileMerger\FileMerger\obj\Debug\FileMerger.exe
+C:\Users\Hsiao\Documents\Visual Studio 2013\Projects\Codingames\FileMerger\FileMerger\obj\Debug\FileMerger.pdb

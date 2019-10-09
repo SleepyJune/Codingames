@@ -1,0 +1,6 @@
+C:\Users\Hsiao\Documents\Visual Studio 2013\Projects\Codingames\Code4Life\Code4Life\Code4Life\bin\Debug\Code4Life.exe.config
+C:\Users\Hsiao\Documents\Visual Studio 2013\Projects\Codingames\Code4Life\Code4Life\Code4Life\obj\Debug\Code4Life.csprojResolveAssemblyReference.cache
+C:\Users\Hsiao\Documents\Visual Studio 2013\Projects\Codingames\Code4Life\Code4Life\Code4Life\bin\Debug\Code4Life.exe
+C:\Users\Hsiao\Documents\Visual Studio 2013\Projects\Codingames\Code4Life\Code4Life\Code4Life\bin\Debug\Code4Life.pdb
+C:\Users\Hsiao\Documents\Visual Studio 2013\Projects\Codingames\Code4Life\Code4Life\Code4Life\obj\Debug\Code4Life.exe
+C:\Users\Hsiao\Documents\Visual Studio 2013\Projects\Codingames\Code4Life\Code4Life\Code4Life\obj\Debug\Code4Life.pdb

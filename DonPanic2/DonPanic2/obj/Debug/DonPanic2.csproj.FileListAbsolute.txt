@@ -1,0 +1,7 @@
+c:\users\hsiao\documents\visual studio 2013\Projects\DonPanic2\DonPanic2\bin\Debug\DonPanic2.exe.config
+C:\Users\Hsiao\Documents\Visual Studio 2013\Projects\Codingames\DonPanic2\DonPanic2\bin\Debug\DonPanic2.exe.config
+C:\Users\Hsiao\Documents\Visual Studio 2013\Projects\Codingames\DonPanic2\DonPanic2\bin\Debug\DonPanic2.exe
+C:\Users\Hsiao\Documents\Visual Studio 2013\Projects\Codingames\DonPanic2\DonPanic2\bin\Debug\DonPanic2.pdb
+C:\Users\Hsiao\Documents\Visual Studio 2013\Projects\Codingames\DonPanic2\DonPanic2\obj\Debug\DonPanic2.csprojResolveAssemblyReference.cache
+C:\Users\Hsiao\Documents\Visual Studio 2013\Projects\Codingames\DonPanic2\DonPanic2\obj\Debug\DonPanic2.exe
+C:\Users\Hsiao\Documents\Visual Studio 2013\Projects\Codingames\DonPanic2\DonPanic2\obj\Debug\DonPanic2.pdb

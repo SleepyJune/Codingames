@@ -1,0 +1,7 @@
+c:\users\genesissky\documents\visual studio 2015\Projects\Code4Life-Silver\Code4Life-Silver\bin\Debug\Code4Life-Silver.exe.config
+C:\Users\GenesisSKY\Documents\Visual Studio 2015\Projects\Code4Life-Silver2\Code4Life-Silver\bin\Debug\Code4Life-Silver.exe.config
+C:\Users\GenesisSKY\Documents\Visual Studio 2015\Projects\Code4Life-Silver3\Code4Life-Silver\bin\Debug\Code4Life-Silver.exe.config
+C:\Users\GenesisSKY\Documents\Visual Studio 2015\Projects\Code4Life-Silver4\Code4Life-Silver\bin\Debug\Code4Life-Silver.exe.config
+C:\Users\GenesisSKY\Documents\Visual Studio 2015\Projects\Code4Life-Silver5\Code4Life-Silver\bin\Debug\Code4Life-Silver.exe.config
+C:\Users\GenesisSKY\Documents\Visual Studio 2015\Projects\Code4Life-Silver6\Code4Life-Silver\bin\Debug\Code4Life-Silver.exe.config
+C:\Users\Hsiao\Documents\Visual Studio 2013\Projects\Codingames\Code4Life\Harry\Code4Life-Silver6\Code4Life-Silver\bin\Debug\Code4Life-Silver.exe.config

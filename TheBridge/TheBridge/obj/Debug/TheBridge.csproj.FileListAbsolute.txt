@@ -1,0 +1,7 @@
+c:\users\hsiao\documents\visual studio 2013\Projects\TheBridge\TheBridge\bin\Debug\TheBridge.exe.config
+C:\Users\Hsiao\Documents\Visual Studio 2013\Projects\Codingames\TheBridge\TheBridge\bin\Debug\TheBridge.exe.config
+C:\Users\Hsiao\Documents\Visual Studio 2013\Projects\Codingames\TheBridge\TheBridge\bin\Debug\TheBridge.exe
+C:\Users\Hsiao\Documents\Visual Studio 2013\Projects\Codingames\TheBridge\TheBridge\bin\Debug\TheBridge.pdb
+C:\Users\Hsiao\Documents\Visual Studio 2013\Projects\Codingames\TheBridge\TheBridge\obj\Debug\TheBridge.csprojResolveAssemblyReference.cache
+C:\Users\Hsiao\Documents\Visual Studio 2013\Projects\Codingames\TheBridge\TheBridge\obj\Debug\TheBridge.exe
+C:\Users\Hsiao\Documents\Visual Studio 2013\Projects\Codingames\TheBridge\TheBridge\obj\Debug\TheBridge.pdb

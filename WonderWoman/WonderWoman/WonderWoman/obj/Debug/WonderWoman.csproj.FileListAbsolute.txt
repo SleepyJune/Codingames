@@ -1,0 +1,6 @@
+C:\Users\Hsiao\Documents\Visual Studio 2013\Projects\Codingames\WonderWoman\WonderWoman\WonderWoman\bin\Debug\WonderWoman.exe.config
+C:\Users\Hsiao\Documents\Visual Studio 2013\Projects\Codingames\WonderWoman\WonderWoman\WonderWoman\bin\Debug\WonderWoman.exe
+C:\Users\Hsiao\Documents\Visual Studio 2013\Projects\Codingames\WonderWoman\WonderWoman\WonderWoman\bin\Debug\WonderWoman.pdb
+C:\Users\Hsiao\Documents\Visual Studio 2013\Projects\Codingames\WonderWoman\WonderWoman\WonderWoman\obj\Debug\WonderWoman.csprojResolveAssemblyReference.cache
+C:\Users\Hsiao\Documents\Visual Studio 2013\Projects\Codingames\WonderWoman\WonderWoman\WonderWoman\obj\Debug\WonderWoman.exe
+C:\Users\Hsiao\Documents\Visual Studio 2013\Projects\Codingames\WonderWoman\WonderWoman\WonderWoman\obj\Debug\WonderWoman.pdb

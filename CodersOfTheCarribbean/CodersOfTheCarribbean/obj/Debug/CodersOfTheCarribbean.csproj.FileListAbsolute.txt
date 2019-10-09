@@ -1,0 +1,6 @@
+C:\Users\Hsiao\Documents\Visual Studio 2013\Projects\Codingames\CodersOfTheCarribbean\CodersOfTheCarribbean\bin\Debug\CodersOfTheCarribbean.exe.config
+C:\Users\Hsiao\Documents\Visual Studio 2013\Projects\Codingames\CodersOfTheCarribbean\CodersOfTheCarribbean\bin\Debug\CodersOfTheCarribbean.exe
+C:\Users\Hsiao\Documents\Visual Studio 2013\Projects\Codingames\CodersOfTheCarribbean\CodersOfTheCarribbean\bin\Debug\CodersOfTheCarribbean.pdb
+C:\Users\Hsiao\Documents\Visual Studio 2013\Projects\Codingames\CodersOfTheCarribbean\CodersOfTheCarribbean\obj\Debug\CodersOfTheCarribbean.exe
+C:\Users\Hsiao\Documents\Visual Studio 2013\Projects\Codingames\CodersOfTheCarribbean\CodersOfTheCarribbean\obj\Debug\CodersOfTheCarribbean.pdb
+C:\Users\Hsiao\Documents\Visual Studio 2013\Projects\Codingames\CodersOfTheCarribbean\CodersOfTheCarribbean\obj\Debug\CodersOfTheCarribbean.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+C:\Users\Hsiao\Documents\Visual Studio 2013\Projects\Codingames\Packman\Packman\bin\Debug\Packman.exe.config
+C:\Users\Hsiao\Documents\Visual Studio 2013\Projects\Codingames\Packman\Packman\bin\Debug\Packman.exe
+C:\Users\Hsiao\Documents\Visual Studio 2013\Projects\Codingames\Packman\Packman\bin\Debug\Packman.pdb
+C:\Users\Hsiao\Documents\Visual Studio 2013\Projects\Codingames\Packman\Packman\obj\Debug\Packman.exe
+C:\Users\Hsiao\Documents\Visual Studio 2013\Projects\Codingames\Packman\Packman\obj\Debug\Packman.pdb
+C:\Users\Hsiao\Documents\Visual Studio 2013\Projects\Codingames\Packman\Packman\obj\Debug\Packman.csprojResolveAssemblyReference.cache

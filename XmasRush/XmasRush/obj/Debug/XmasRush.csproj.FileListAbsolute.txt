@@ -1,0 +1,7 @@
+c:\users\hsiao\documents\visual studio 2013\Projects\XmasRush\XmasRush\bin\Debug\XmasRush.exe.config
+C:\Users\Hsiao\Documents\Visual Studio 2013\Projects\Codingames\XmasRush\XmasRush\bin\Debug\XmasRush.exe.config
+C:\Users\Hsiao\Documents\Visual Studio 2013\Projects\Codingames\XmasRush\XmasRush\bin\Debug\XmasRush.exe
+C:\Users\Hsiao\Documents\Visual Studio 2013\Projects\Codingames\XmasRush\XmasRush\bin\Debug\XmasRush.pdb
+C:\Users\Hsiao\Documents\Visual Studio 2013\Projects\Codingames\XmasRush\XmasRush\obj\Debug\XmasRush.csprojResolveAssemblyReference.cache
+C:\Users\Hsiao\Documents\Visual Studio 2013\Projects\Codingames\XmasRush\XmasRush\obj\Debug\XmasRush.exe
+C:\Users\Hsiao\Documents\Visual Studio 2013\Projects\Codingames\XmasRush\XmasRush\obj\Debug\XmasRush.pdb

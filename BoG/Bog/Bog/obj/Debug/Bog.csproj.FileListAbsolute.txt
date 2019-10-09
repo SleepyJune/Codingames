@@ -1,0 +1,6 @@
+C:\Users\Hsiao\Documents\Visual Studio 2013\Projects\Codingames\BoG\Bog\Bog\bin\Debug\Bog.exe.config
+C:\Users\Hsiao\Documents\Visual Studio 2013\Projects\Codingames\BoG\Bog\Bog\bin\Debug\Bog.exe
+C:\Users\Hsiao\Documents\Visual Studio 2013\Projects\Codingames\BoG\Bog\Bog\bin\Debug\Bog.pdb
+C:\Users\Hsiao\Documents\Visual Studio 2013\Projects\Codingames\BoG\Bog\Bog\obj\Debug\Bog.csprojResolveAssemblyReference.cache
+C:\Users\Hsiao\Documents\Visual Studio 2013\Projects\Codingames\BoG\Bog\Bog\obj\Debug\Bog.exe
+C:\Users\Hsiao\Documents\Visual Studio 2013\Projects\Codingames\BoG\Bog\Bog\obj\Debug\Bog.pdb

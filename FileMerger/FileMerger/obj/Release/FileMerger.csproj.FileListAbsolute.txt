@@ -1,0 +1,5 @@
+C:\Users\Hsiao\Documents\Visual Studio 2013\Projects\Codingames\FileMerger\FileMerger\bin\Release\FileMerger.exe.config
+C:\Users\Hsiao\Documents\Visual Studio 2013\Projects\Codingames\FileMerger\FileMerger\bin\Release\FileMerger.exe
+C:\Users\Hsiao\Documents\Visual Studio 2013\Projects\Codingames\FileMerger\FileMerger\bin\Release\FileMerger.pdb
+C:\Users\Hsiao\Documents\Visual Studio 2013\Projects\Codingames\FileMerger\FileMerger\obj\Release\FileMerger.exe
+C:\Users\Hsiao\Documents\Visual Studio 2013\Projects\Codingames\FileMerger\FileMerger\obj\Release\FileMerger.pdb

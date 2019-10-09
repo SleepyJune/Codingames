@@ -1,0 +1,7 @@
+c:\users\hsiao\documents\visual studio 2013\Projects\LeagueOfCode\LeagueOfCode\bin\Debug\LeagueOfCode.exe.config
+C:\Users\Hsiao\Documents\Visual Studio 2013\Projects\Codingames\LeagueOfCode\LeagueOfCode\bin\Debug\LeagueOfCode.exe.config
+C:\Users\Hsiao\Documents\Visual Studio 2013\Projects\Codingames\LeagueOfCode\LeagueOfCode\bin\Debug\LeagueOfCode.exe
+C:\Users\Hsiao\Documents\Visual Studio 2013\Projects\Codingames\LeagueOfCode\LeagueOfCode\bin\Debug\LeagueOfCode.pdb
+C:\Users\Hsiao\Documents\Visual Studio 2013\Projects\Codingames\LeagueOfCode\LeagueOfCode\obj\Debug\LeagueOfCode.csprojResolveAssemblyReference.cache
+C:\Users\Hsiao\Documents\Visual Studio 2013\Projects\Codingames\LeagueOfCode\LeagueOfCode\obj\Debug\LeagueOfCode.exe
+C:\Users\Hsiao\Documents\Visual Studio 2013\Projects\Codingames\LeagueOfCode\LeagueOfCode\obj\Debug\LeagueOfCode.pdb
